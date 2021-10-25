@@ -28,7 +28,6 @@ public class Main {
         for (Character ch: max) { // 1 vòng lặp
             System.out.print(ch); // 1 câu lệnh
         }
-        System.out.println();
     }
 
 /*********************************************************************************
